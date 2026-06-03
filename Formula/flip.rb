@@ -1,8 +1,8 @@
 class Flip < Formula
   desc "Print a random table-flipping emoji and copy it to your clipboard"
   homepage "https://github.com/CubedCard/flip"
-  url "https://github.com/CubedCard/flip/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "09e56ab88e20ed20c9eb426a79073a38edbc0d0f51235a4a652df3baf32ff0e9"
+  url "https://github.com/CubedCard/flip/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "12bc872fcb46988bd594e7eddcee17c368b4a4f42af9592ca513ded802cf8712"
   license "MIT"
 
   def install
